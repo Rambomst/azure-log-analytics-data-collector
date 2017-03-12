@@ -6,6 +6,8 @@
  */
 namespace datacollectorapi;
 
+use Exception;
+
 class Client
 {
     private $customer_id = null;
